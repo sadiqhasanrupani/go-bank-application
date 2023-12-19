@@ -6,7 +6,10 @@ Welcome to the "go-bank-console-application"! This command-line tool, written in
 
 ## Features
 
-Our application is a work in progress, aiming to provide a range of features for seamless banking operations. Stay tuned for exciting updates!
+- Check your account balance
+- Deposit funds
+- Withdraw funds
+- Exit the application
 
 ## Getting Started
 
